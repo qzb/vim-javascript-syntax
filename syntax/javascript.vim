@@ -41,7 +41,7 @@ syntax keyword javaScriptOperator       delete new instanceof typeof
 syntax keyword javaScriptBoolean        true false
 syntax keyword javaScriptNull           null undefined
 syntax keyword javaScriptMessage        alert confirm prompt status
-syntax keyword javaScriptGlobal         self top parent that me
+syntax keyword javaScriptGlobal         self that me
 syntax keyword javaScriptDeprecated     escape unescape all applets alinkColor bgColor fgColor linkColor vlinkColor xmlEncoding
 syntax keyword javaScriptConditional    if else switch
 syntax keyword javaScriptRepeat         do while for in
